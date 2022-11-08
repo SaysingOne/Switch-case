@@ -1,0 +1,15 @@
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.AssemblyReference.cache
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.cs
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/bin/Debug/net6.0/SwitchCase
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/bin/Debug/net6.0/SwitchCase.deps.json
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/bin/Debug/net6.0/SwitchCase.runtimeconfig.json
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/bin/Debug/net6.0/SwitchCase.dll
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/bin/Debug/net6.0/SwitchCase.pdb
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/refint/SwitchCase.dll
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/SwitchCase.genruntimeconfig.cache
+/Users/stanislavzabin/Documents/StudyC/SwitchCase/obj/Debug/net6.0/ref/SwitchCase.dll

@@ -1,5 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿DayTime dayTime = DayTime.Evening;
+
+if (dayTime == DayTime.Evening)
+    Console.WriteLine("Добрый вечер");
+else
+    Console.WriteLine("Привет");
+
 
 enum DayTime
 {
